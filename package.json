@@ -1,0 +1,26 @@
+{
+  "name": "entitlements-parser",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "JavaScript library to parse Apple Entitlements, IDE Friendly JSDOC strings included that describes the entitlements :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selenic-io/entitlements-parser.js.git"
+  },
+  "keywords": [
+    "Apple",
+    "Development",
+    "Entitlements",
+    "parser"
+  ],
+  "author": "selenic-io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selenic-io/entitlements-parser.js/issues"
+  },
+  "homepage": "https://github.com/selenic-io/entitlements-parser.js#readme"
+}
